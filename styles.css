@@ -1,0 +1,43 @@
+body {
+	background-color: beige;
+	text-align: center;
+}
+
+/*div {
+	height: 50px;
+	width: 24%;
+	display: inline-block;
+}*/
+
+.container {
+	display: flex;
+	justify-content: center;
+}
+
+.box {
+	height: 150px;
+	width: 150px;
+}
+.box-red {
+	background-color: tomato;
+	font-family: 'Galindo';
+	font-size: 22px;
+}
+
+.box-purple{
+	background-color: lightblue;
+	font-family: 'Averia Serif Libre';
+	font-size: 22px;
+}
+
+.box-pink{
+	background-color: 	#ff0040;
+	font-family: 'Averia Sans Libre';
+	font-size: 22px;
+}
+
+.box-yellow{
+	background-color: #ffbf00;
+	font-family: 'Andada';
+	font-size: 22px;
+}
